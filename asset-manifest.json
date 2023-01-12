@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.aed141b4.css",
-    "main.js": "/static/js/main.a6782d9e.js",
+    "main.css": "/static/css/main.8141cf0d.css",
+    "main.js": "/static/js/main.9ac09e03.js",
     "static/media/background-hd.png": "/static/media/background-hd.6261377ac9d4b95e5578.png",
     "static/media/user.JPG": "/static/media/user.0e5e5794a4c8745c6c5b.JPG",
+    "static/media/DietherMarkFiel_Resume.pdf": "/static/media/DietherMarkFiel_Resume.ae6c59c7833fad2cd62a.pdf",
     "static/media/personal-logo.png": "/static/media/personal-logo.6def01a9ce18fa707ad6.png",
     "index.html": "/index.html",
-    "main.aed141b4.css.map": "/static/css/main.aed141b4.css.map",
-    "main.a6782d9e.js.map": "/static/js/main.a6782d9e.js.map"
+    "main.8141cf0d.css.map": "/static/css/main.8141cf0d.css.map",
+    "main.9ac09e03.js.map": "/static/js/main.9ac09e03.js.map"
   },
   "entrypoints": [
-    "static/css/main.aed141b4.css",
-    "static/js/main.a6782d9e.js"
+    "static/css/main.8141cf0d.css",
+    "static/js/main.9ac09e03.js"
   ]
 }
