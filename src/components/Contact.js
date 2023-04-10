@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {  faPaperPlane,faPhoneSquareAlt } from "@fortawesome/free-solid-svg-icons";
-import { faFacebookSquare, faTwitterSquare, faInstagramSquare, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faFacebookSquare, faInstagramSquare, faLinkedin, faTelegram } from "@fortawesome/free-brands-svg-icons";
 import cv from "../assets/cv";
 import { useState } from "react";
 
@@ -39,14 +39,14 @@ const Contact = () => {
                             <a href="http://www.facebook.com/terfimacel" target="_blank" rel="noreferrer">
                                 <FontAwesomeIcon icon={faFacebookSquare} className="icon" />
                             </a>
-                            <a href="https://twitter.com/fierryterry" target="_blank" rel="noreferrer">
-                                <FontAwesomeIcon icon={faTwitterSquare} className="icon" />
-                            </a>
                             <a href="https://www.instagram.com/terciel22/" target="_blank" rel="noreferrer">
                                 <FontAwesomeIcon icon={faInstagramSquare} className="icon" />
                             </a>
                             <a href="https://www.linkedin.com/in/diether-mark-fiel-b90370237/" target="_blank" rel="noreferrer">
                                 <FontAwesomeIcon icon={faLinkedin} className="icon" />
+                            </a>
+                            <a href="https://t.me/terciel22" target="_blank" rel="noreferrer">
+                                <FontAwesomeIcon icon={faTelegram} className="icon" />
                             </a>
                         </div>
                         <a href={cv} download className="btn">Download CV</a>
